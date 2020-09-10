@@ -25,11 +25,9 @@ public class Utils {
     private static void createDirs(String dirName){
         Path path = Paths.get(dirName);
         if (Files.exists(path)){
-            System.out.printf("Directory already exists");
-        } else {
+            System.out.println("Directory already exists");
             return;
         }
-
         try {
             Files.createDirectories(path);
         } catch (IOException e) {

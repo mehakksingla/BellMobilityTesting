@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561be4b3-1bcc-456b-bdbc-545be1e935db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driverManager/BrowserTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/framework.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/framework.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/driverManager/driverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driverManager/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,21 +89,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="154" key="GridCell.Tab.0.bottom" timestamp="1599755143261">
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1599761816890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599755143261" />
-    <state width="1323" height="154" key="GridCell.Tab.0.center" timestamp="1599755143261">
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599761816890" />
+    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1599761816890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599755143261" />
-    <state width="1323" height="154" key="GridCell.Tab.0.left" timestamp="1599755143261">
+    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599761816890" />
+    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1599761816889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599755143261" />
-    <state width="1323" height="154" key="GridCell.Tab.0.right" timestamp="1599755143261">
+    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599761816889" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1599761816890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599755143261" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599761816890" />
   </component>
 </project>
